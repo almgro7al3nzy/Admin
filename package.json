@@ -6,7 +6,7 @@
     "@types/react-dom": "^18.3.1",
     "babel-plugin-relay": "^18.2.0",
     "bootstrap": "^5.3.3",
-    "react-router-dom": "^7.0.1",
+    "react-router-dom": "^7.5.2",
     "sass": "^1.81.0",
     "typescript": "^5.7.2"
   }
